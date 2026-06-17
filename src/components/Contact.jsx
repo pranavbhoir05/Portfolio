@@ -40,7 +40,7 @@ function Contact() {
 </button>
      <button
   onClick={() =>
-    window.open("", "_blank")
+    window.open("/public/PRANAV_BHOIR_Mern_Developer.pdf", "_blank")
   }
   className="
     w-full
